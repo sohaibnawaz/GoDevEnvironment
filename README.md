@@ -1,6 +1,6 @@
 # Run Go in Docker
 
-We can also run go in a small docker container: <br/>
+Run go in a small docker container: <br/>
 
 ```
 cd GoDevEnvironment
